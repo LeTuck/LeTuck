@@ -1,4 +1,4 @@
-# Alfredo Gonzalez Mendez
+# Alfredo González Méndez
 ##  I.S.C. _Data Scientist Certified_ 
 ### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | 
 
