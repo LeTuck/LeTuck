@@ -19,7 +19,7 @@
 
 | Desktop | Tablet | Mobile |
 | :---: | :---: | :---: |
-| <img src="URL_1" width="200"> | <img src="URL_2" width="200"> | <img src="URL_3" width="200"> |
+| <img src="![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB)" width="200"> | <img src="URL_2" width="200"> | <img src="URL_3" width="200"> |
 | *Vista de escritorio* | *Vista Tablet* | *Vista Móvil* |
 
 ### Educación
