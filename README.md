@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![FONDO 001](https://lh3.googleusercontent.com/u/0/d/1jd3SS06qNB0dsjZ-I9zEePtBAWtehOy8)
-
-
+!(https://lh3.googleusercontent.com/u/0/d/1jd3SS06qNB0dsjZ-I9zEePtBAWtehOy8)
 
 
 
