@@ -15,7 +15,7 @@
 
 | [Data Scientist](https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing)| [Python Profesional](https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing) | Apps de Inteligencia Artificial con C# y Azure |
 | :---: | :---: | :---: |
-| ![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV) | ![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB) | ![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB) |
+| ![Data Scientist](https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV) | ![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB) | ![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB) |
 | **TripleTen - 610 Hrs** | **códigofacilito - 8h 39m** | *[Abrir](https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing)* |
 
 
