@@ -14,7 +14,7 @@
 ##### Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.
 
 | Python Profesional - Código Facilito | aaa |
-| :---: | aaa |
+| :---: | :---: | 
 | ![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB) https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing| aaa |
 
 /// Python Profesional.pdf
