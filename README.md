@@ -6,6 +6,7 @@
 
 
 Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
+
 Competencias avanzadas en modelado estadístico, Python, SQL y visualización de datos.
 ##### Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
 ##### Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.
