@@ -5,9 +5,8 @@
 ![FONDO 001](https://lh3.googleusercontent.com/u/0/d/1jd3SS06qNB0dsjZ-I9zEePtBAWtehOy8)
 
 
-##### _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
-
-##### _Competencias avanzadas en modelado estadístico, Python, SQL y visualización de datos._
+##### Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
+##### Competencias avanzadas en modelado estadístico, Python, SQL y visualización de datos.
 ##### Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
 ##### Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.
 ##### Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos).
@@ -16,7 +15,7 @@
 
 | Data Scientist 610 Hrs - TripleTen LatAm | Python Profesional - Código Facilito |
 | :---: | :---: |
-| ![Proyecto de ](URL_IMAGEN_1) | ![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB) |
+| ![Proyecto de ](URL_IMAGEN_1) | ![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB) https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing|
 
 
 
