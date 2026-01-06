@@ -5,9 +5,9 @@
 ![FONDO 001](https://lh3.googleusercontent.com/u/0/d/1jd3SS06qNB0dsjZ-I9zEePtBAWtehOy8)
 
 
-Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
+##### _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
 
-Competencias avanzadas en modelado estadístico, Python, SQL y visualización de datos.
+##### _Competencias avanzadas en modelado estadístico, Python, SQL y visualización de datos._
 ##### Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
 ##### Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.
 ##### Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos).
