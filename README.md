@@ -5,11 +5,17 @@
 ![FONDO002](https://lh3.googleusercontent.com/u/0/d/14A-Fb3IRZeoA7Zo3DCQAk7np9b3YlnIf)
 
 ✅ Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
+
 ✅ Competencias avanzadas en modelado estadístico, Python, SQL y visualización de datos.
+
 ✅ Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
+
 ✅ Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.
+
 ✅ Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos).
+
 ✅ Aplicación de machine learning y estadística inferencial para generar insights accionables.
+
 ✅ Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.
 
 
