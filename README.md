@@ -4,7 +4,7 @@
 
 ![FONDO002](https://lh3.googleusercontent.com/u/0/d/14A-Fb3IRZeoA7Zo3DCQAk7np9b3YlnIf)
 
-✅ Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
+:sparkles: Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
 
 ✅ Competencias avanzadas en modelado estadístico, Python, SQL y visualización de datos.
 
@@ -33,10 +33,18 @@
 
 ### Competencias
 ✅ Razonamiento crítico y analítico.
+
 ✅ Comunicación efectiva con equipos interdisciplinarios.
+
 ✅ Toma de decisiones basada en análisis de datos.
+
 ✅ Organización y atención al detalle.
+
 ✅ Resolución de problemas complejos.
+
 ✅ Trabajo colaborativo en entornos digitales.
 
-### Contacto: gonzalez.mendez@hotmail.com
+#
+### Contacto:
+gonzalez.mendez@hotmail.com
+https://www.linkedin.com/in/alfredogonzalezmendez/
