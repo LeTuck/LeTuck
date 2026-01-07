@@ -12,9 +12,12 @@
 ##### Aplicación de machine learning y estadística inferencial para generar insights accionables.
 ##### Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.
 
-| Proyecto | Descripción | Estado |
-| :--- | :--- | :--- |
-| Mi App | <div style="width:300px">Esta columna siempre medirá 300px de ancho, obligando al texto a ajustarse.</div> | ✅ |
+| Descripción | Estado |
+| :--- | :--- |
+| <div style="width:300px">Esta columna siempre medirá 300px de ancho, obligando al texto a ajustarse.</div> | ✅ |
+| Descripción | Estado |
+| :--- | :--- |
+| <div style="width:300px">Esta columna siempre medirá 300px de ancho, obligando al texto a ajustarse.</div> | ✅ |
 
 | Data Scientist | Python Profesional | Apps de Inteligencia Artificial con C# y Azure |
 | :---: | :---: | :---: |
