@@ -4,19 +4,13 @@
 
 ![FONDO002](https://lh3.googleusercontent.com/u/0/d/14A-Fb3IRZeoA7Zo3DCQAk7np9b3YlnIf)
 
-##### Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
-##### Competencias avanzadas en modelado estadístico, Python, SQL y visualización de datos.
-##### Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
-##### Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.
-##### Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos).
-##### Aplicación de machine learning y estadística inferencial para generar insights accionables.
-##### Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.
-
-| Curso | <div style="width:500"> Certificado </div> |
-| :--- | :--- |
-| Data Scientist | [![Data Scientist](https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV)](https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing) |
-
-
+✅ Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
+✅ Competencias avanzadas en modelado estadístico, Python, SQL y visualización de datos.
+✅ Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
+✅ Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.
+✅ Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos).
+✅ Aplicación de machine learning y estadística inferencial para generar insights accionables.
+✅ Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.
 
 
 | Data Scientist | Python Profesional | Apps de Inteligencia Artificial con C# y Azure |
@@ -32,11 +26,11 @@
 
 
 ### Competencias
-##### Razonamiento crítico y analítico.
-##### Comunicación efectiva con equipos interdisciplinarios.
-##### Toma de decisiones basada en análisis de datos.
-##### Organización y atención al detalle.
-##### Resolución de problemas complejos.
-##### Trabajo colaborativo en entornos digitales.
+✅ Razonamiento crítico y analítico.
+✅ Comunicación efectiva con equipos interdisciplinarios.
+✅ Toma de decisiones basada en análisis de datos.
+✅ Organización y atención al detalle.
+✅ Resolución de problemas complejos.
+✅ Trabajo colaborativo en entornos digitales.
 
 ### Contacto: gonzalez.mendez@hotmail.com
