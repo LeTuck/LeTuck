@@ -5,9 +5,8 @@
 
 ![FONDO002](https://lh3.googleusercontent.com/u/0/d/14A-Fb3IRZeoA7Zo3DCQAk7np9b3YlnIf)
 
-| Sobre mi |
-| :--- |
-| :sparkles: Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
+### Sobre mi
+:sparkles: Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
 :sparkles: Competencias avanzadas en modelado estadístico, y visualización de datos.
 :sparkles: Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
 :sparkles: Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.
@@ -23,6 +22,7 @@
 | :---: | :---: | :---: |
 | [![Data Scientist](https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV)](https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing) | [![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB)](https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing) | [![Apps de Inteligencia Artificial con C# y Azure](https://lh3.googleusercontent.com/u/0/d/1TLVSbbTCiHPV7GP0KWDQNz3VlN7t-21_)](https://drive.google.com/file/d/1WXASZHlgm-NJ0tWHclM3nt41v524r-F6/view?usp=sharing) |
 | **TripleTen - 610h** | **códigofacilito - 8h 39m** | **códigofacilito - 2h 54m** |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
 
 | Introducción a Machine Learning | Ingeniería de prompts |  Profesional de Git  |
