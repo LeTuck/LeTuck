@@ -13,7 +13,7 @@
 
 :sparkles: _Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave._
 
-:sparkles: _Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas._
+:busts_in_silhouette: _Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas._
 
 :sparkles: _Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos)._
 
