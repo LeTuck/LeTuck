@@ -19,7 +19,7 @@
 
 :sparkles: _Aplicación de machine learning y estadística inferencial para generar insights accionables._
 
-:bulb: _Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones._👢
+:bulb: _Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones._
 
 
 | **DATA SCIENTIST** | **PHYTON PROFESIONAL**| **APPS DE INTELIGENCIA ARTIFICIAL CON C# Y AZURE** |
