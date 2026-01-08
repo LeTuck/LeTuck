@@ -13,8 +13,7 @@
 :sparkles: Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.
 :sparkles: Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos).
 :sparkles: Aplicación de machine learning y estadística inferencial para generar insights accionables.
-:sparkles: Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+:sparkles: Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.|
 
  
 
