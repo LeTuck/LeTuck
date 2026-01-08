@@ -7,8 +7,7 @@
 
 | Competencias |
 | :--- |
-| 
-:sparkles: Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
+| :sparkles: Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
 
 :sparkles: Competencias avanzadas en modelado estadístico, y visualización de datos.
 
@@ -21,7 +20,7 @@
 :sparkles: Aplicación de machine learning y estadística inferencial para generar insights accionables.
 
 :sparkles: Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones. 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
  
 
