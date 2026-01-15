@@ -25,6 +25,8 @@
 
 <hr>
 
+### Cursos
+
 | **DATA SCIENTIST** | **PHYTON PROFESIONAL**| **APPS DE INTELIGENCIA ARTIFICIAL CON C# Y AZURE** |
 | :---: | :---: | :---: |
 | [![Data Scientist](https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV)](https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing) | [![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB)](https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing) | [![Apps de Inteligencia Artificial con C# y Azure](https://lh3.googleusercontent.com/u/0/d/1TLVSbbTCiHPV7GP0KWDQNz3VlN7t-21_)](https://drive.google.com/file/d/1WXASZHlgm-NJ0tWHclM3nt41v524r-F6/view?usp=sharing) |
