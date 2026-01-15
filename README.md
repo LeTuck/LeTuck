@@ -4,9 +4,8 @@
 
 ![FONDO002](https://lh3.googleusercontent.com/u/0/d/14A-Fb3IRZeoA7Zo3DCQAk7np9b3YlnIf)
 
-<details>
-  <summary><b>💻 Sobre mi</b></summary>
-  <hr>
+<hr>
+💻 Sobre mi  
   
   🏗️ _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
   
@@ -21,11 +20,6 @@
   🧠 _Aplicación de machine learning y estadística inferencial para generar insights accionables._
   
   🎨 _Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones._
-</details>
-
-
-
-
 
 
 | **DATA SCIENTIST** | **PHYTON PROFESIONAL**| **APPS DE INTELIGENCIA ARTIFICIAL CON C# Y AZURE** |
