@@ -6,7 +6,8 @@
 ![FONDO002](https://lh3.googleusercontent.com/u/0/d/14A-Fb3IRZeoA7Zo3DCQAk7np9b3YlnIf)
 
 <hr>
-💻 Sobre mi  
+
+💻 Sobre mi:
   
   🏗️ _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
   
@@ -23,6 +24,7 @@
   🎨 _Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones._
 
 <hr>
+
 | **DATA SCIENTIST** | **PHYTON PROFESIONAL**| **APPS DE INTELIGENCIA ARTIFICIAL CON C# Y AZURE** |
 | :---: | :---: | :---: |
 | [![Data Scientist](https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV)](https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing) | [![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB)](https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing) | [![Apps de Inteligencia Artificial con C# y Azure](https://lh3.googleusercontent.com/u/0/d/1TLVSbbTCiHPV7GP0KWDQNz3VlN7t-21_)](https://drive.google.com/file/d/1WXASZHlgm-NJ0tWHclM3nt41v524r-F6/view?usp=sharing) |
@@ -32,6 +34,7 @@
 | **códigofacilito - 4h 9m** | **códigofacilito - 4h 57m** | **códigofacilito - 3h 14m** |
 
 <hr>
+
 ### Competencias
 
 
@@ -48,6 +51,7 @@
 🌐 _Trabajo colaborativo en entornos digitales._
 
 <hr>
+
 ### Contacto:
 gonzalez.mendez@hotmail.com
 
