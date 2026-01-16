@@ -9,10 +9,10 @@
 
 ### Proyectos
 
-| **Tienda de Videojuegos** | **Subiendo...**| **Subiendo...** |
+| **Tienda de Videojuegos** | **Pozos Petroleros "OilyGiant"**| **Subiendo...** |
 | :---: | :---: | :---: |
 | [![tienda](https://github.com/LeTuck/LeTuck/blob/images/tienda_videojuegos.jpg)](https://github.com/LeTuck/Tienda-de-Videojuegos) | ![proceso](https://github.com/LeTuck/LeTuck/blob/images/proceso.jpg) | ![proceso](https://github.com/LeTuck/LeTuck/blob/images/proceso.jpg) |
-| **Proyeccion para campaña publicitaria del 2016 al 2017** | **Sorpresa!** | **Sorpresa!** |
+| **Proyeccion para campaña publicitaria del 2016 al 2017** | **Aprendizaje automático en negocios** | **Sorpresa!** |
 <hr>
 
 
