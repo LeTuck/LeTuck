@@ -1,11 +1,9 @@
 # [Alfredo González Méndez](https://www.linkedin.com/in/alfredogonzalezmendez/)
 ##  I.S.C. _Data Scientist Certified_
-### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | 
+### DataLake | Python | Pandas | Numpy | Pygwalker | Power BI | Excel | Tableau
 <hr>
 
-![FONDO002](https://lh3.googleusercontent.com/u/0/d/14A-Fb3IRZeoA7Zo3DCQAk7np9b3YlnIf)
-
-<hr>
+![Fondo](https://github.com/gonzalezmendez/gonzalezmendez/blob/images/FondoGit.png)
 
 ### Proyectos
 
