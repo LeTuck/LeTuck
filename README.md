@@ -29,7 +29,42 @@
   
   🎨 _Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones._
 
-<hr>
+<table>
+  <thead>
+    <tr style="background-color: #2C3E50; color: white;">
+      <th align="center">DATA SCIENTIST</th>
+      <th align="center">PYTHON PROFESIONAL</th>
+      <th align="center">APPS IA CON C# Y AZURE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing"><img src="https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV" alt="Data Scientist"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing"><img src="https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB" alt="Python Profesional"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1WXASZHlgm-NJ0tWHclM3nt41v524r-F6/view?usp=sharing"><img src="https://lh3.googleusercontent.com/u/0/d/1TLVSbbTCiHPV7GP0KWDQNz3VlN7t-21_" alt="Apps IA"></a></td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+      <td align="center"><strong>TripleTen - 610h</strong></td>
+      <td align="center"><strong>códigofacilito - 8h 39m</strong></td>
+      <td align="center"><strong>códigofacilito - 2h 54m</strong></td>
+    </tr>
+    <tr style="background-color: #2C3E50; color: white;">
+      <th align="center">INTRO. MACHINE LEARNING</th>
+      <th align="center">INGENIERÍA DE PROMPTS</th>
+      <th align="center">PROFESIONAL DE GIT</th>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing"><img src="https://lh3.googleusercontent.com/u/0/d/18c4zR_fWUCbHJYaQXoZOsl2a7k0oCC1P" alt="ML"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1EyEAKv_jw7anf1gX7j5op7_J8sdf_QJc/view?usp=sharing"><img src="https://lh3.googleusercontent.com/u/0/d/1-PuDSQoYkUgbessL_CmiiDAKdr9Ynb-1" alt="Prompts"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1SVV75ytNYwvDl0647Yx8jW6m6kT_CVsX/view?usp=sharing"><img src="https://lh3.googleusercontent.com/u/0/d/1K1ZuAbgNdKEWR6EcsNFK0TR8xZUPrKWz" alt="Git"></a></td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+      <td align="center"><strong>códigofacilito - 4h 9m</strong></td>
+      <td align="center"><strong>códigofacilito - 4h 57m</strong></td>
+      <td align="center"><strong>códigofacilito - 3h 14m</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Cursos
 
